@@ -3,7 +3,11 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ahmed Hassan" /></a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/your-github-username/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ahmed%20Hassan;.NET%20Backend%20Developer;C%23%20and%20ASP.NET%20Expert;SQL%20Server%20and%20Entity%20Framework&font=Fira%20Code&center=true&width=500&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" /></a>
@@ -23,14 +27,14 @@ Skilled in <b>C#, ASP.NET, LINQ, SQL Server, and Entity Framework</b>, building 
 <details open> 
   <summary><h2>🛠️ Core Skills</h2></summary>
   <p>
-      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white" />
-      <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" />
-      <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?logo=asp.net&logoColor=white" />
-      <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-      <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-512BD4?logo=microsoft&logoColor=white" />
-      <img alt="LINQ" src="https://img.shields.io/badge/LINQ-68217A?logo=c-sharp&logoColor=white" />
-      <img alt="OOP" src="https://img.shields.io/badge/OOP-008080?logo=programming&logoColor=white" />
-      <img alt="REST API" src="https://img.shields.io/badge/REST%20API-0088cc?logo=rest&logoColor=white" />
+      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-007ACC.svg?logo=cs2&logoColor=white" />
+      <img alt=".NET" src="https://img.shields.io/badge/.NET-007ACC?logo=.net&logoColor=white" />
+      <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-007ACC?logo=asp.net&logoColor=white" />
+      <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-007ACC?logo=microsoft-sql-server&logoColor=white" />
+      <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-007ACC?logo=microsoft&logoColor=white" />
+      <img alt="LINQ" src="https://img.shields.io/badge/LINQ-007ACC?logo=c-sharp&logoColor=white" />
+      <img alt="OOP" src="https://img.shields.io/badge/OOP-007ACC?logo=programming&logoColor=white" />
+      <img alt="REST API" src="https://img.shields.io/badge/REST%20API-007ACC?logo=rest&logoColor=white" />
   </p>
 </details>
 
@@ -38,10 +42,10 @@ Skilled in <b>C#, ASP.NET, LINQ, SQL Server, and Entity Framework</b>, building 
   <summary><h2>📊 GitHub Stats</h2></summary>
   <p align="center">
     <a href="https://github.com/your-github-username?tab=repositories">
-      <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=your-github-username&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+      <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=your-github-username&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="192px"/>
     </a>
     <a href="https://github.com/your-github-username?tab=repositories">
-      <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+      <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="192px"/>
     </a>
   </p>
 </details>
@@ -65,14 +69,12 @@ Skilled in <b>C#, ASP.NET, LINQ, SQL Server, and Entity Framework</b>, building 
   </ul>
 </details>
 
-
-
 <details open>
   <summary><h2>⚡ Connect with Me</h2></summary>
   <p align="center">
     <a href="https://www.linkedin.com/in/your-linkedin"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" /></a>
     <a href="https://twitter.com/your-twitter"><img width="32px" src="https://i.imgur.com/AixJgnm.png" alt="Twitter" /></a>
     <a href="https://dev.to/your-devto"><img width="32px" src="https://i.imgur.com/mVm29vK.png" alt="Dev.to" /></a>
-    <a href="mailto:your-email@example.com"><img width="32px" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:your-email@example.com"><img width="32px" src="https://img.shields.io/badge/Email-007ACC?logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </details>
