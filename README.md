@@ -1,8 +1,7 @@
 
 <p align="center">
  
-<a href="https://github.com/AhmedHassan123">
-</p>
+
 
 <p align="center">
   <a href="https://github.com/your-github-username/readme-typing-svg">
