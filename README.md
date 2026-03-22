@@ -3,11 +3,7 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ahmed Hassan" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/your-github-username/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;C%23%20and%20ASP.NET%20Expert;SQL%20Server%20and%20Entity%20Framework;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" /></a>
