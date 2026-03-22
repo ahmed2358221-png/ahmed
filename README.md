@@ -1,14 +1,8 @@
 <p align="center">
   <a href="https://github.com/AhmedHassan123/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%3Cb%3EAhmed%20Hassan%3C/b%3E;.NET%20Backend%20Developer;C%23%20and%20ASP.NET%20Expert;SQL%20Server%20and%20Entity%20Framework&font=Fira%20Code&center=true&width=500&height=45&color=00FF00&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ahmed%20Hassan;.NET%20Backend%20Developer;C%23%20and%20ASP.NET%20Expert;SQL%20Server%20and%20Entity%20Framework&font=Fira%20Code&center=true&width=500&height=45&color=00FF00&vCenter=true&pause=1000&size=22&fontWeight=700" />
   </a>
 </p>
-
-<p align="center">
-Hi! I'm <b>"Ahmed Hassan"</b>, a Computer Science student focusing on <b>.NET Backend Development</b>.  
-Skilled in <b>C#, ASP.NET, LINQ, SQL Server, and Entity Framework</b>, building clean and efficient backend solutions.
-</p>
-
 <details open> 
   <summary><h2>🛠️ Core Skills</h2></summary>
   <p>
