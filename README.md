@@ -69,10 +69,7 @@ Skilled in <b>C#, ASP.NET, LINQ, SQL Server, and Entity Framework</b>, building 
   </ul>
 </details>
 
-<details open>
-  <summary><h2>📺 Latest YouTube / Tutorials</h2></summary>
-  <p>Coming soon – You can link your personal tutorials or projects</p>
-</details>
+
 
 <details open>
   <summary><h2>⚡ Connect with Me</h2></summary>
