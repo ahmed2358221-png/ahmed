@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-Hi! I'm <b>Ahmed Hassan</b>, a Computer Science student focusing on <b>.NET Backend Development</b>.  
+Hi! I'm Ahmed Hassan  a Computer Science student focusing on <b>.NET Backend Development</b>.  
 Skilled in <b>C#, ASP.NET, LINQ, SQL Server, and Entity Framework</b>, building clean and efficient backend solutions.
 </p>
 
